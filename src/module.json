@@ -1,0 +1,25 @@
+{
+  "id": "added-item-notification",
+  "title": "Added item notification",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "",
+  "authors": [],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "bugs": "",
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "languages": [],
+  "relationships": {
+    "requires": [],
+    "recommends": [],
+    "systems": []
+  },
+  "socket": false
+}
